@@ -1,0 +1,13 @@
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\bin\Debug\netcoreapp3.1\TwitchTimeMachine.exe
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\bin\Debug\netcoreapp3.1\TwitchTimeMachine.deps.json
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\bin\Debug\netcoreapp3.1\TwitchTimeMachine.runtimeconfig.json
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\bin\Debug\netcoreapp3.1\TwitchTimeMachine.runtimeconfig.dev.json
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\bin\Debug\netcoreapp3.1\TwitchTimeMachine.dll
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\bin\Debug\netcoreapp3.1\TwitchTimeMachine.pdb
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.csprojAssemblyReference.cache
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.AssemblyInfoInputs.cache
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.AssemblyInfo.cs
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.csproj.CoreCompileInputs.cache
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.dll
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.pdb
+C:\Users\jamatth\Desktop\TTM\TwitchTimeMachine\TwitchTimeMachine\obj\Debug\netcoreapp3.1\TwitchTimeMachine.genruntimeconfig.cache
