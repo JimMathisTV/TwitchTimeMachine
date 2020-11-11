@@ -34,6 +34,8 @@ namespace TwitchTimeMachine
 
             Console.WriteLine();
             Console.WriteLine("https://vod-secure.twitch.tv/" + result + "/chunked/index-dvr.m3u8");
+            Console.WriteLine("\n\n Press any key to exit...");
+            Console.ReadKey();
         }
 
         public static string Hash(string input)
